@@ -7,15 +7,14 @@
 
 - 🌱 Actualmente estoy aprendiendo **React Native y Solidity**
 
-- 🤝 Mi objetivo es seguir **una carrera en ciberseguridad**
+- 🤝 Mi objetivo es **ver las medidas de ciberseguirdad en relación a Web3**
 
 - 📫 Cómo contactarme: **jimmysanti1@hotmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jimmmy ayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmmy ayala" height="30" width="40" /></a>
-<a href="https://fb.com/jimmy santiago ayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jimmy santiago ayala" height="30" width="40" /></a>
-<a href="https://discord.gg/captian_bamboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="captian_bamboo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jimmy-ayala-2a160a166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmmy ayala" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jimmysantiago.ayalagarrido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jimmy santiago ayala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
