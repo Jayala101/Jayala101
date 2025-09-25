@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayala101&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="jayala101" /> </p>
 
-- 🔭 He trabajado en **Odoo en Katarisoft**
+- 🔭 He trabajado con **Odoo en la universidad UTE**
 
 - 🌱 Actualmente estoy aprendiendo **React Native y Solidity**
 
